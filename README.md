@@ -10,11 +10,8 @@ In this showcase you'll see the following in action:
 * Obtaining Request Data
 * Generating Responses
 * Message Converters
-* Rendering Views
-* Type Conversion
 * Validation
 * Forms
-* File Upload
 * Exception Handling
 
 To get the code:
