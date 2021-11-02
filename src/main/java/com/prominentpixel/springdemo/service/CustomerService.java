@@ -1,10 +1,10 @@
-package com.prominentpixel.springdemo.dao;
+package com.prominentpixel.springdemo.service;
 
 import com.prominentpixel.springdemo.entity.Customer;
 
 import java.util.List;
 
-public interface CustomerDAO {
+public interface CustomerService {
 
     public List<Customer> getCustomers();
 
